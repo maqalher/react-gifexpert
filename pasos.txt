@@ -1,0 +1,30 @@
+yarn create vite
+gif-expert-app
+React
+JavaScript
+yarn  -> para instalar las depandencias
+
+crear GifExpertApp.jsx
+
+crear Compomente GifGrid.jsx
+
+crear helpers/getGifs.js
+
+para probar en servidor local
+    npm install --global http-server
+
+    http-server -o
+
+
+Crear GifItem.jsx
+
+Crear Hook
+    src/hooks/useFetchGifts.js
+
+
+Generar build
+    yarn build
+
+Archivos de Barril o indice
+ crear archivos index.js en las carpetas
+    https://www.netlify.com/
