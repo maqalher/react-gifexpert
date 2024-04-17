@@ -28,3 +28,6 @@ Generar build
 Archivos de Barril o indice
  crear archivos index.js en las carpetas
     https://www.netlify.com/
+
+Github pages
+    renombrar dist a docs y subir a git
